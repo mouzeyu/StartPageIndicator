@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IndicatorView">
+        <attr name="indicator_max_width" format="dimension"></attr>
+        <attr name="indicator_min_width" format="dimension"></attr>
+        <attr name="indicator_divide" format="dimension"></attr>
+        <attr name="indicator_current_page_color" format="reference"></attr>
+        <attr name="indicator_def_color" format="reference"></attr>
+    </declare-styleable>
+</resources>
